@@ -13,3 +13,5 @@ https://www.notion.so/bea11617d6414b0b8ebe70fdaaeff01f
 https://www.notion.so/2917af80afcb49c2b4b2f2fbc8ad5c53
 6. 가장 큰 수
 https://www.notion.so/b5545ff601bd4cf493f542d03d4630d6
+7. H-Index
+https://www.notion.so/H-Index-669894fc4ee1424c8972d683ede63d63
