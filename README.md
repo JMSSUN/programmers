@@ -15,3 +15,5 @@ https://www.notion.so/2917af80afcb49c2b4b2f2fbc8ad5c53
 https://www.notion.so/b5545ff601bd4cf493f542d03d4630d6
 7. H-Index
 https://www.notion.so/H-Index-669894fc4ee1424c8972d683ede63d63
+8. 더 맵게
+https://www.notion.so/PriorityQueue-f4d5a8b373b34f4cbe2722490d39edd6
