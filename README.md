@@ -17,3 +17,5 @@ https://www.notion.so/b5545ff601bd4cf493f542d03d4630d6
 https://www.notion.so/H-Index-669894fc4ee1424c8972d683ede63d63
 8. 더 맵게
 https://www.notion.so/PriorityQueue-f4d5a8b373b34f4cbe2722490d39edd6
+9. 주식가격
+https://www.notion.so/d98744881c2b44adb3ece06d6879d734
